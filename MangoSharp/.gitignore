@@ -1,5 +1,4 @@
-bin
-obj
+debug
 
 # Windows image file caches
 Thumbs.db
