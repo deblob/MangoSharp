@@ -1,0 +1,1 @@
+- Make all classes except MangoClient internal and wrap functions in the client
