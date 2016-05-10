@@ -1,1 +1,3 @@
-- Make all classes except MangoClient internal and wrap functions in the client
+- make all classes except MangoClient internal and wrap functions in the client
+- combine Data and Domain
+- enhance calm
