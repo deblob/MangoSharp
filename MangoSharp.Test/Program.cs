@@ -12,7 +12,7 @@ namespace MangoSharp.Test
     {
         public static void Main(string[] args)
         {
-            MangoClient client = new MangoClient("9D19955EE09BF0B5F0681F566ED78CE2");
+            MangoClient client = new MangoClient("YOUR API KEY GOES HERE");
             var heroes = Stash.Heroes;
             var items = Stash.Items;
             items[101].GetImage().Save("test.png");
